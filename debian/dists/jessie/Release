@@ -1,0 +1,27 @@
+Origin: Freight
+Label: Freight
+Suite: jessie
+Codename: jessie
+Components: main 
+Architectures: i386 amd64
+MD5Sum:
+ 29e8fa62fcf490414768cdec702fdd21 82 main/binary-i386/Release
+ 9998edba8cd9ab83c21fe16fe4f182d5 29 main/binary-i386/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 74c09f89a8ec17ff4bedf9abe367797e 83 main/binary-amd64/Release
+ 48580ddd7835314b9936c2ad27198660 523 main/binary-amd64/Packages.gz
+ 340c42ce788116b763ce352afed096fa 732 main/binary-amd64/Packages
+SHA1:
+ e39ef792ea2e8817e76725055e2fa115bb67b05a 82 main/binary-i386/Release
+ acb35231b78f9464c2307dd83e9bc0bd17fd1240 29 main/binary-i386/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 11a6a3bcccd8e2f945b1674e5bc430d90cbbc770 83 main/binary-amd64/Release
+ 0b381cf2de588cb986a9e0928c25b6a4d3efcb25 523 main/binary-amd64/Packages.gz
+ 8f7473c1c31e54712024e1f76656b2ef243cc1b6 732 main/binary-amd64/Packages
+SHA256:
+ 3968fa880003431311b7feb43764a21aa2c1eddcafe12e4da91c4a46500cbd24 82 main/binary-i386/Release
+ 8abd3eedcb1cc0b392d96fe40a4d281771e0c94250073c04a2debe1a4ba0aaa2 29 main/binary-i386/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ cf9b70daca1bf7d6d126a355bbbdb21e0ce10bcc9e2a1ee4b02de9859cf7fa06 83 main/binary-amd64/Release
+ b5e3a2faee6be29bb3bf8940d1eb81a39ad33cc6aac728e826d87d603f372922 523 main/binary-amd64/Packages.gz
+ f8b2e2f3ca411ab0bc51dab5e730ec7829c9b76b8d759a776c1a798c7d712dfa 732 main/binary-amd64/Packages

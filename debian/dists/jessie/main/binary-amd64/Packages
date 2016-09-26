@@ -1,0 +1,17 @@
+Package: astercti
+Version: 0.0.21-1
+Architecture: amd64
+Maintainer: Mikhailov M.A. <yohanson@ngs.ru>
+Installed-Size: 580
+Depends: libc6 (>= 2.14), libcurl3 (>= 7.16.2), libgcc1 (>= 1:4.1.1), libjsoncpp0, libstdc++6 (>= 4.9), libwxbase3.0-0 (>= 3.0.2), libwxgtk3.0-0 (>= 3.0.2)
+Section: net
+Priority: optional
+Description: Computer-Telephone Integration app for Asterisk
+ Written in wxWidgets and C++. Supports ring notification,
+ originating calls from GUI, list of calls. Uses AMI to work.
+Filename: pool/jessie/main/a/astercti/astercti_0.0.21-1_amd64.deb
+MD5sum: 8de4346e88f660ed0fcdddaf9f5ebefe
+SHA1: 7cf15c30f080da136444c4e28bc3a1840d0517a0
+SHA256: c2320354057c8533885e364152aff9e6bcfa96fb9fc722dbaf1f3ef13c944613
+Size: 168052
+
