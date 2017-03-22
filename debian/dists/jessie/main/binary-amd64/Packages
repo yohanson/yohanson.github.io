@@ -15,3 +15,37 @@ SHA1: 7cf15c30f080da136444c4e28bc3a1840d0517a0
 SHA256: c2320354057c8533885e364152aff9e6bcfa96fb9fc722dbaf1f3ef13c944613
 Size: 168052
 
+Package: astercti
+Version: 0.0.22-1
+Architecture: amd64
+Maintainer: Mikhailov M.A. <yohanson@ngs.ru>
+Installed-Size: 585
+Depends: libc6 (>= 2.14), libcurl3 (>= 7.16.2), libgcc1 (>= 1:4.1.1), libjsoncpp0, libstdc++6 (>= 4.9), libwxbase3.0-0 (>= 3.0.2), libwxgtk3.0-0 (>= 3.0.2)
+Section: net
+Priority: optional
+Description: Computer-Telephone Integration app for Asterisk
+ Written in wxWidgets and C++. Supports ring notification,
+ originating calls from GUI, list of calls. Uses AMI to work.
+Filename: pool/jessie/main/a/astercti/astercti_0.0.22-1_amd64.deb
+MD5sum: 42ef55e8f045086e412e9bc73b598e1b
+SHA1: 708c7b736d95743afeb11bd9ff6690a88878e8e6
+SHA256: 309c74aa245161efc6278e2a22482006d3b499392882e282254898c60a542780
+Size: 169430
+
+Package: astercti
+Version: 0.0.23-1
+Architecture: amd64
+Maintainer: Mikhailov M.A. <yohanson@ngs.ru>
+Installed-Size: 585
+Depends: libc6 (>= 2.14), libcurl3 (>= 7.16.2), libgcc1 (>= 1:4.1.1), libjsoncpp0, libstdc++6 (>= 4.9), libwxbase3.0-0 (>= 3.0.2), libwxgtk3.0-0 (>= 3.0.2)
+Section: net
+Priority: optional
+Description: Computer-Telephone Integration app for Asterisk
+ Written in wxWidgets and C++. Supports ring notification,
+ originating calls from GUI, list of calls. Uses AMI to work.
+Filename: pool/jessie/main/a/astercti/astercti_0.0.23-1_amd64.deb
+MD5sum: 6922c1cf3c1d21c17449a3b3b7157783
+SHA1: b38a64b4e97d10d37203cd4871850636851266eb
+SHA256: f59cdcf8f610845a2a7f1dffd3425b65569792d826dcc20491e781204783ce99
+Size: 169016
+
