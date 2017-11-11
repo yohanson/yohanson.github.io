@@ -2,26 +2,37 @@ Origin: Freight
 Label: Freight
 Suite: jessie
 Codename: jessie
+NotAutomatic: no
+ButAutomaticUpgrades: no
 Components: main 
 Architectures: i386 amd64
+Date: Sat, 11 Nov 2017 15:10:45 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
 MD5Sum:
- 29e8fa62fcf490414768cdec702fdd21 82 main/binary-i386/Release
- 2823e529f81fcda74f4f8dc4cf7a2129 29 main/binary-i386/Packages.gz
+ c66364337cce7c28ee693a08d97e0d09 204 main/binary-amd64/Release
+ bd4d4eb3c867d3bd2da73df549159297 611 main/binary-amd64/Packages.gz
+ cb28c324f742c54b2e9b4a01c970bb9b 869 main/binary-amd64/Packages
+ 80bb2bc10b75d51cacc120c59132f4ed 203 main/binary-i386/Release
+ 1b266227edb106b621472d5ffa3521c5 29 main/binary-i386/Packages.gz
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
- 74c09f89a8ec17ff4bedf9abe367797e 83 main/binary-amd64/Release
- a57fb873950a3c62b720b654d83b2b8f 759 main/binary-amd64/Packages.gz
- b479d76b82992294ba463aecdec167dd 2196 main/binary-amd64/Packages
 SHA1:
- e39ef792ea2e8817e76725055e2fa115bb67b05a 82 main/binary-i386/Release
- cbdb1d1c23e3359cde9b0e2a540ab316d44ca3ef 29 main/binary-i386/Packages.gz
+ 0abae5a4b6797eeb1a4eb912971c8b8891c5e30a 204 main/binary-amd64/Release
+ fb15531e0df8bcbfd9d12709b21dc57bda301c5a 611 main/binary-amd64/Packages.gz
+ cc67751c7d73721c33854e46d802cd9b385ceba9 869 main/binary-amd64/Packages
+ 1575dbf669f94c5df7dfd0f8d027c0ead85c0141 203 main/binary-i386/Release
+ 6d91f326b7a5e78bbcf6a108d0d549032424cbeb 29 main/binary-i386/Packages.gz
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
- 11a6a3bcccd8e2f945b1674e5bc430d90cbbc770 83 main/binary-amd64/Release
- 7bb54f01dd7566b90a6d4e8ce329ad8689718af2 759 main/binary-amd64/Packages.gz
- 3a368d302edff9b0302c66ac347ec42bebbb0d37 2196 main/binary-amd64/Packages
 SHA256:
- 3968fa880003431311b7feb43764a21aa2c1eddcafe12e4da91c4a46500cbd24 82 main/binary-i386/Release
- 0f4a2c25a368e765a102517e664698b110438b4c965d8558bc26c3b9d51643e9 29 main/binary-i386/Packages.gz
+ ffc9e9d8639ca8237ecaa056695aabcbea5a89c4873f7fde60e9eaeebaa3ec54 204 main/binary-amd64/Release
+ d42042bf548ce3bf268d9794f663ac0925ac52348a547930ae28db64649c23ce 611 main/binary-amd64/Packages.gz
+ e70f0681e42ae53eaf411cdf1caf8be7f304f6c0718b43dbd4ca97e1120108e6 869 main/binary-amd64/Packages
+ 72dca07b50bb67c23f29ddb76e9240394ea75e783401d6e364735f429dd750ed 203 main/binary-i386/Release
+ f0157fb4b693c3115d0a2e73b151562c9e19f514adede2cd800e4bd76d6ad4a0 29 main/binary-i386/Packages.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
- cf9b70daca1bf7d6d126a355bbbdb21e0ce10bcc9e2a1ee4b02de9859cf7fa06 83 main/binary-amd64/Release
- f131c85fa2d278e3bd9ab47a842deb095951bb702a33c8378b6c1e8eb8326ce4 759 main/binary-amd64/Packages.gz
- 8c977021f429b014ee9022fdc824cbc8c77bd85d3715f5eccad24be5be635d32 2196 main/binary-amd64/Packages
+SHA512:
+ 7537dcdbc3bef54e087f3b93a513f14cdc8dae13cb6d8afca9052283a014106d88beebc7a944b4522e2dfd4819302b6500ff0238d32d00611bbbd955ac0be1db 204 main/binary-amd64/Release
+ 98fe7fc3c5e378ce3934e0ae86fb81d8de737f5ba69d3332d7e9486d22c2978d7c093a79e3fa7be0c7c44dfce0771be6d35b44fdc1b50170a9edde2f5ecea638 611 main/binary-amd64/Packages.gz
+ f4254e9af40a1eb70233e09b012fc8f8fff9f08c066b8a15f18dedd243b28cbc7ab05d61e3f7352dffea2c865c0f630bae291dc131cc1922ba5c6d6b65903e34 869 main/binary-amd64/Packages
+ df66acdc2a22ccbcab5772071fe4d7c807c7305faa37621cd870cc1f1a830dec3c3e0797ec82df03e5d4990d14ec3826bf2f5e21eb526cbae134d2470180a2ac 203 main/binary-i386/Release
+ 61d23d928cd7b45e6d993c5d107d0179ab0477ab7fd9614ab58c9a67ad3015b5b3c3d0df44d42b6255327362966414fd1e7e904c921c8b699ac479b64eef7463 29 main/binary-i386/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/binary-i386/Packages
