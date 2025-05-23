@@ -1,0 +1,9 @@
+Archive: bookworm
+Component: main
+Origin: Freight
+Label: Freight
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: i386
+Date: Fri, 23 May 2025 08:15:42 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC

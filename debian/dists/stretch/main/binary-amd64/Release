@@ -1,9 +1,0 @@
-Archive: stretch
-Component: main
-Origin: Freight
-Label: Freight
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: amd64
-Date: Sat, 11 Nov 2017 15:10:50 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC

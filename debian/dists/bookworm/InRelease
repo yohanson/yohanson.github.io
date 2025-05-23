@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Freight
+Label: Freight
+Suite: bookworm
+Codename: bookworm
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Components: main 
+Architectures: i386 amd64
+Date: Fri, 23 May 2025 08:15:42 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
+MD5Sum:
+ f5f5f46a7b5f0bf2579d3e22a584e370 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 235e32c6f394bdf8b83b83eec87d9686 205 main/binary-i386/Release
+ 93971dc5a23078a97da9eeffacf370a0 29 main/binary-i386/Packages.gz
+ 8bd8c16f58cb869ab33dac5751a7c792 892 main/binary-amd64/Packages
+ fbf9fc38f770e6bff70a85e19e1bc5d3 206 main/binary-amd64/Release
+ deb332ee580148c7ed1cec7b356363b7 625 main/binary-amd64/Packages.gz
+SHA1:
+ 7961ea46cb8e6f9d78dc974205690abf12a0391f 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 13c7173dd521dc5a117041025889bbec00783a9f 205 main/binary-i386/Release
+ a26a9dc7f1fb4030bfbc5eafef7aa53acb641566 29 main/binary-i386/Packages.gz
+ 60d578833f6f2e5bb918d9e64b67f9e9bb2d609d 892 main/binary-amd64/Packages
+ 92850bce44389440e694634cf447f8fa3fd813a1 206 main/binary-amd64/Release
+ 37bfe2fb836106d23714b36087b2faab6222dd36 625 main/binary-amd64/Packages.gz
+SHA256:
+ 4a132f895bd1fbf5895749330cc91fe21a99c5b82c2b29aba474a55a70ad63ba 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 69cd1fbd19bfa34f9ed318bccca857aa1418c47c7ae1aba69191706021d7733c 205 main/binary-i386/Release
+ d6d6c9a2cea73fccbe9e55352cc4c1e2895656edc990a2b7e139296bc34f80c8 29 main/binary-i386/Packages.gz
+ 3a0b9432b2a8bb4e6a6ed4ae04e487c269c66965309c3a4bc7940d7c86fe424b 892 main/binary-amd64/Packages
+ 7463c6ddab242814f339091f0aa417a803bfa6a676839d675de05ab607e9e62c 206 main/binary-amd64/Release
+ 3b957e9fb28a060f402d9968e3a26da78375edc97dda4f937bd3b14e1648b16c 625 main/binary-amd64/Packages.gz
+SHA512:
+ 1d0c548d49180a8c8a4440c0efbe106ecfb77c8c1e1da3309849e4d3e7e309fa856296068ecbc11b4be3c4a1a50fe6aa3a3300529640f35f8c6718df46d58977 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/binary-i386/Packages
+ 517dda5f461157c89b9be0c06187c57374300bd2ec8a403d27ce2117c115503ad2eb9a633c4611e319bcade710c0ed30b64e88c06d63d711f4794b272e8e582d 205 main/binary-i386/Release
+ c39638cbc058a929ab3caf486003e9142f92f967fa82ae298420b3a13be9553151aecd2f40477537f5c553ac46e4750ca5ac070079271d5625a4cddf03f8f0c5 29 main/binary-i386/Packages.gz
+ 9b13d172ef87c6bbc4e5b4d17a99b1c1d669264bd4ee986251c713a241f1f2fbe957b62f5dcf48697c0cc4573c2f5b186b27ef23ddd87e8eef1af82d2dbe019c 892 main/binary-amd64/Packages
+ f752727d929ca4239969d8d9a59daadc929fdff8fb5aeb14bd95c86b4168dcef8f5f3cd24437f209639155d70d1121d33003e2f2aa04141320e45a993b052e84 206 main/binary-amd64/Release
+ b7a678014ba2536a656746c922ef596fb827bf44dbd46672c9a7120160d2693c1f3285f751ac471b28616a1669d91fd3761adbcfbe256af4b85f1c6580acc897 625 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSD6p8J3WNB5CXIJvlm9RxH+fmqYQUCaDAurgAKCRBm9RxH+fmq
+YWIWAQDyAGiQnpfMMbGapYFL2XN8E9K7MTX91WujIgeCW2oxaAD/W1guDAFuSbYu
+UJ0Dl7b/ZUHD/XOHS26knjvAcpc8ZAc=
+=IW0R
+-----END PGP SIGNATURE-----
