@@ -9,44 +9,44 @@ NotAutomatic: no
 ButAutomaticUpgrades: no
 Components: main 
 Architectures: i386 amd64
-Date: Fri, 23 May 2025 08:15:42 UTC
+Date: Fri, 23 May 2025 09:31:35 UTC
 Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
 MD5Sum:
- f5f5f46a7b5f0bf2579d3e22a584e370 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ 8e57b5d20dabfd0c9df3af3cb0212d5b 164352 .refs/main/astercti_0.0.24-2_amd64.deb
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
- 235e32c6f394bdf8b83b83eec87d9686 205 main/binary-i386/Release
- 93971dc5a23078a97da9eeffacf370a0 29 main/binary-i386/Packages.gz
- 8bd8c16f58cb869ab33dac5751a7c792 892 main/binary-amd64/Packages
- fbf9fc38f770e6bff70a85e19e1bc5d3 206 main/binary-amd64/Release
- deb332ee580148c7ed1cec7b356363b7 625 main/binary-amd64/Packages.gz
+ f81d6643525a77d222032789acdb1987 205 main/binary-i386/Release
+ 380adfb10e16accb9578a01314a0412c 29 main/binary-i386/Packages.gz
+ 3bc8bd343684f069d72853035c945e21 892 main/binary-amd64/Packages
+ 2be48a906f92153876ad5bc53abad3b9 206 main/binary-amd64/Release
+ d00c646d0e9a1984299ff93e50515318 623 main/binary-amd64/Packages.gz
 SHA1:
- 7961ea46cb8e6f9d78dc974205690abf12a0391f 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ 479b7144675d67bb731f131b49f5d0b510b17957 164352 .refs/main/astercti_0.0.24-2_amd64.deb
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
- 13c7173dd521dc5a117041025889bbec00783a9f 205 main/binary-i386/Release
- a26a9dc7f1fb4030bfbc5eafef7aa53acb641566 29 main/binary-i386/Packages.gz
- 60d578833f6f2e5bb918d9e64b67f9e9bb2d609d 892 main/binary-amd64/Packages
- 92850bce44389440e694634cf447f8fa3fd813a1 206 main/binary-amd64/Release
- 37bfe2fb836106d23714b36087b2faab6222dd36 625 main/binary-amd64/Packages.gz
+ fc2d6963002ff68dd24f6ba448c01a21a37c18d7 205 main/binary-i386/Release
+ ee87ee11bc5a430411eaff30a807629bf23dfbd2 29 main/binary-i386/Packages.gz
+ 359e8dfb04f44477005468f72ff6df73d03cabda 892 main/binary-amd64/Packages
+ f61d3d0071c8205b6e8826b9475c53416ee822de 206 main/binary-amd64/Release
+ 7873485eb06a66756f43e524a1cafd8021abb528 623 main/binary-amd64/Packages.gz
 SHA256:
- 4a132f895bd1fbf5895749330cc91fe21a99c5b82c2b29aba474a55a70ad63ba 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ 1b0b80c982dffe224cb68b0beabb417c4db9a8e716b486325b217c8c8dacda7f 164352 .refs/main/astercti_0.0.24-2_amd64.deb
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
- 69cd1fbd19bfa34f9ed318bccca857aa1418c47c7ae1aba69191706021d7733c 205 main/binary-i386/Release
- d6d6c9a2cea73fccbe9e55352cc4c1e2895656edc990a2b7e139296bc34f80c8 29 main/binary-i386/Packages.gz
- 3a0b9432b2a8bb4e6a6ed4ae04e487c269c66965309c3a4bc7940d7c86fe424b 892 main/binary-amd64/Packages
- 7463c6ddab242814f339091f0aa417a803bfa6a676839d675de05ab607e9e62c 206 main/binary-amd64/Release
- 3b957e9fb28a060f402d9968e3a26da78375edc97dda4f937bd3b14e1648b16c 625 main/binary-amd64/Packages.gz
+ 6f948a6f2b91afbb51bdb564a382a1785dc962ec7eb938b3ac0397f5d546e4af 205 main/binary-i386/Release
+ 480299f38afd172c648287a23b7597e56bd4c117d5a3f18cc64bfb9e17e1365f 29 main/binary-i386/Packages.gz
+ 6b482e6edb4813fb956ac863ba6643c9fd55533987a9020203d895b5e32eebf8 892 main/binary-amd64/Packages
+ cbe0f51860be6021a03df0df1fbc3c5414169b43084b7b7d9771d708bdb8bdf8 206 main/binary-amd64/Release
+ b96854a00de6bfb6efe6de955b1b85e579a7393fe43dc2d90e37b2b18d606993 623 main/binary-amd64/Packages.gz
 SHA512:
- 1d0c548d49180a8c8a4440c0efbe106ecfb77c8c1e1da3309849e4d3e7e309fa856296068ecbc11b4be3c4a1a50fe6aa3a3300529640f35f8c6718df46d58977 164364 .refs/main/astercti_0.0.23-1_amd64.deb
+ 19421604713c9a6de809b9e8bfdb5d95e68f4aea0f21333e2c28f027b920a2129f15d5a06fddbbacc490b7a2ad824c625b70e605b372d2e336d70a78c3c771f6 164352 .refs/main/astercti_0.0.24-2_amd64.deb
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/binary-i386/Packages
- 517dda5f461157c89b9be0c06187c57374300bd2ec8a403d27ce2117c115503ad2eb9a633c4611e319bcade710c0ed30b64e88c06d63d711f4794b272e8e582d 205 main/binary-i386/Release
- c39638cbc058a929ab3caf486003e9142f92f967fa82ae298420b3a13be9553151aecd2f40477537f5c553ac46e4750ca5ac070079271d5625a4cddf03f8f0c5 29 main/binary-i386/Packages.gz
- 9b13d172ef87c6bbc4e5b4d17a99b1c1d669264bd4ee986251c713a241f1f2fbe957b62f5dcf48697c0cc4573c2f5b186b27ef23ddd87e8eef1af82d2dbe019c 892 main/binary-amd64/Packages
- f752727d929ca4239969d8d9a59daadc929fdff8fb5aeb14bd95c86b4168dcef8f5f3cd24437f209639155d70d1121d33003e2f2aa04141320e45a993b052e84 206 main/binary-amd64/Release
- b7a678014ba2536a656746c922ef596fb827bf44dbd46672c9a7120160d2693c1f3285f751ac471b28616a1669d91fd3761adbcfbe256af4b85f1c6580acc897 625 main/binary-amd64/Packages.gz
+ 4c267770dc7c65e376ca740acad43a7dc7691db5c5ee578bc2b0f86797c067ff42dc3a9aa3a5e8635ad9ec957918dd1ebcd2ed011fc11978228d73079aecf1e0 205 main/binary-i386/Release
+ bcf98c18e7b2dfaa9a9e5c116a1501c09b552cd832695e7f741a3e23bb081ee412ce054bf7b5fc6e4bade5e0d2c4eb1fddc41d80ddc59c61c0936b0b2a4f4497 29 main/binary-i386/Packages.gz
+ bea535d3f56bb31f0eb8e9ca6d19ac771f07becffa972052309fe8bf49584b93e0fe3bcee624ab62a292b1e95dfb7a2347ad24516474d7cf141770f1a81a7790 892 main/binary-amd64/Packages
+ 58f38d3234c5f587e40fcac00d7ba27095b73bc4c7caa0fedaffc4ba2f61c374fa6c8bb747613857c974807df7e0fbba5484e147399a2104b2d13e7199dcf290 206 main/binary-amd64/Release
+ b2aa30935206a5c83cac4cba982f10e8d0826af59162096053eb7071ca7c255ed926d7f6b539e88bf77ffe5da3537cefeb9173e57f9266eb993b8b726315256e 623 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSD6p8J3WNB5CXIJvlm9RxH+fmqYQUCaDAurgAKCRBm9RxH+fmq
-YWIWAQDyAGiQnpfMMbGapYFL2XN8E9K7MTX91WujIgeCW2oxaAD/W1guDAFuSbYu
-UJ0Dl7b/ZUHD/XOHS26knjvAcpc8ZAc=
-=IW0R
+iIwEARYKADQWIQSD6p8J3WNB5CXIJvlm9RxH+fmqYQUCaDBAeBYceW9oYW5zb241
+MTFAZ21haWwuY29tAAoJEGb1HEf5+aph/2kA/28zx46z647xQBXHPkpS8AZgMLMM
+aCNI9OYj9EC5Q2IHAP4qjwpRJofdl/0RhKEdXjfru58Ywf1BZr3X6IVACevYAQ==
+=fFi8
 -----END PGP SIGNATURE-----

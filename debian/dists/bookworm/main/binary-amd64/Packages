@@ -1,5 +1,5 @@
 Package: astercti
-Version: 0.0.23-1
+Version: 0.0.24-2
 Architecture: amd64
 Maintainer: Mikhailov M.A. <yohanson@ngs.ru>
 Installed-Size: 586
@@ -9,10 +9,10 @@ Priority: optional
 Description: Computer-Telephone Integration app for Asterisk
  Written in wxWidgets and C++. Supports ring notification,
  originating calls from GUI, list of calls. Uses AMI to work.
-Filename: pool/bookworm/main/a/astercti/astercti_0.0.23-1_amd64.deb
-MD5sum: f5f5f46a7b5f0bf2579d3e22a584e370
-SHA1: 7961ea46cb8e6f9d78dc974205690abf12a0391f
-SHA256: 4a132f895bd1fbf5895749330cc91fe21a99c5b82c2b29aba474a55a70ad63ba
-SHA512: 1d0c548d49180a8c8a4440c0efbe106ecfb77c8c1e1da3309849e4d3e7e309fa856296068ecbc11b4be3c4a1a50fe6aa3a3300529640f35f8c6718df46d58977
-Size: 164364
+Filename: pool/bookworm/main/a/astercti/astercti_0.0.24-2_amd64.deb
+MD5sum: 8e57b5d20dabfd0c9df3af3cb0212d5b
+SHA1: 479b7144675d67bb731f131b49f5d0b510b17957
+SHA256: 1b0b80c982dffe224cb68b0beabb417c4db9a8e716b486325b217c8c8dacda7f
+SHA512: 19421604713c9a6de809b9e8bfdb5d95e68f4aea0f21333e2c28f027b920a2129f15d5a06fddbbacc490b7a2ad824c625b70e605b372d2e336d70a78c3c771f6
+Size: 164352
 
